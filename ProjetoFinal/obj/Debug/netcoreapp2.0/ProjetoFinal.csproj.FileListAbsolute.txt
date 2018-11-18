@@ -31,3 +31,14 @@ F:\ES-LP4\Projeto Final\Projeto Final 2\ProjetoFinal\obj\Debug\netcoreapp2.0\Pro
 F:\ES-LP4\Projeto Final\Projeto Final 2\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.AssemblyInfo.cs
 F:\ES-LP4\Projeto Final\Projeto Final 2\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.dll
 F:\ES-LP4\Projeto Final\Projeto Final 2\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.pdb
+C:\Users\HUMBERTO\Desktop\Estagio---Trio\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.csprojAssemblyReference.cache
+C:\Users\HUMBERTO\Desktop\Estagio---Trio\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\HUMBERTO\Desktop\Estagio---Trio\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\HUMBERTO\Desktop\Estagio---Trio\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.AssemblyInfo.cs
+C:\Users\HUMBERTO\Desktop\Estagio---Trio\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.dll
+C:\Users\HUMBERTO\Desktop\Estagio---Trio\ProjetoFinal\obj\Debug\netcoreapp2.0\ProjetoFinal.pdb
+C:\Users\HUMBERTO\Desktop\Estagio---Trio\ProjetoFinal\bin\Debug\netcoreapp2.0\ProjetoFinal.deps.json
+C:\Users\HUMBERTO\Desktop\Estagio---Trio\ProjetoFinal\bin\Debug\netcoreapp2.0\ProjetoFinal.runtimeconfig.json
+C:\Users\HUMBERTO\Desktop\Estagio---Trio\ProjetoFinal\bin\Debug\netcoreapp2.0\ProjetoFinal.runtimeconfig.dev.json
+C:\Users\HUMBERTO\Desktop\Estagio---Trio\ProjetoFinal\bin\Debug\netcoreapp2.0\ProjetoFinal.dll
+C:\Users\HUMBERTO\Desktop\Estagio---Trio\ProjetoFinal\bin\Debug\netcoreapp2.0\ProjetoFinal.pdb

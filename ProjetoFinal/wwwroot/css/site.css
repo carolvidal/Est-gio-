@@ -1,6 +1,8 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    background-image: url("../../wwwroot/images/background-projeto.png");
+
 }
 
 /* Wrapping element */

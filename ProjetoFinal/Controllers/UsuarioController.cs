@@ -54,7 +54,7 @@ namespace ProjetoFinal.Controllers
         public IActionResult Registrar(UsuarioModel usuario)
         {
 
-            bool cadastro = usuario.Registrar();
+            bool cadastro = usuario.Cadastrar();
 
             if (cadastro)
             {
